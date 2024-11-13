@@ -38,6 +38,11 @@ Here are some of the awesome web games featured in this repo:
 - **Description:** Kingdom of Pixels is a unique 2D multiplayer battle game that combines MOBA and platformer elements. The game features a retro pixel art style that creates a nostalgic yet minimalist visual experience.
 - **Link:** [Play Now](https://www.joygames.io/game/kingdom-of-pixels)
 
+### 5. [Draw Defense](https://www.joygames.io/game/draw-defense)
+- **Genre:** Defense
+- **Description:** Enter the thrilling world of Draw Defense, an innovative castle defense game that puts your strategic skills to the ultimate test. Armed with just your mouse and quick thinking, you'll create defensive lines that crash down upon waves of approaching enemies. This unique mechanic transforms simple drawing into a powerful weapon against the invading forces.
+- **Link:** [Play Now](https://www.joygames.io/game/draw-defense)
+
 ## Contributing
 
 Contributions to this repository are welcome! Here’s how you can help:
