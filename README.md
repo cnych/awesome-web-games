@@ -43,6 +43,11 @@ Here are some of the awesome web games featured in this repo:
 - **Description:** Enter the thrilling world of Draw Defense, an innovative castle defense game that puts your strategic skills to the ultimate test. Armed with just your mouse and quick thinking, you'll create defensive lines that crash down upon waves of approaching enemies. This unique mechanic transforms simple drawing into a powerful weapon against the invading forces.
 - **Link:** [Play Now](https://www.joygames.io/game/draw-defense)
 
+### 6. [Oppocity](https://play.oppocity.app/)
+- **Genre:** Geography
+- **Description:** Oppocity names a city. You have 15 seconds to tap its antipode — the opposite point on Earth. Five cities make a run. Lowest kilometres wins. Most famous-city antipodes land in the ocean.
+- **Link:** [Play Now](https://play.oppocity.app/)
+
 ## Contributing
 
 Contributions to this repository are welcome! Here’s how you can help:
