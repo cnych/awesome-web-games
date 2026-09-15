@@ -43,6 +43,11 @@ Here are some of the awesome web games featured in this repo:
 - **Description:** Enter the thrilling world of Draw Defense, an innovative castle defense game that puts your strategic skills to the ultimate test. Armed with just your mouse and quick thinking, you'll create defensive lines that crash down upon waves of approaching enemies. This unique mechanic transforms simple drawing into a powerful weapon against the invading forces.
 - **Link:** [Play Now](https://www.joygames.io/game/draw-defense)
 
+### 6. [Play Meowdoku](https://playmeowdoku.com)
+- **Genre:** Puzzle
+- **Description:** Free browser cat logic puzzle — place one cat per region with no shared row/column and no diagonal touch (Sudoku-like).
+- **Link:** [Play Now](https://playmeowdoku.com)
+
 ## Contributing
 
 Contributions to this repository are welcome! Here’s how you can help:
