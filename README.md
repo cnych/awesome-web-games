@@ -43,6 +43,11 @@ Here are some of the awesome web games featured in this repo:
 - **Description:** Enter the thrilling world of Draw Defense, an innovative castle defense game that puts your strategic skills to the ultimate test. Armed with just your mouse and quick thinking, you'll create defensive lines that crash down upon waves of approaching enemies. This unique mechanic transforms simple drawing into a powerful weapon against the invading forces.
 - **Link:** [Play Now](https://www.joygames.io/game/draw-defense)
 
+### 6. [Trick or Take](https://trickortake.com)
+- **Genre:** Arcade / Multiplayer
+- **Description:** Trick or Take is an open-source, fast-paced multiplayer browser party game where up to 6 players enter a haunted mansion, collect candy corn, cast spectral curses, and steal candy from rival players in frantic 60-second rounds. Built with pure vanilla HTML5 Canvas 2D, Cloudflare Workers & D1 edge database, and Agora RTC in-browser live voice chat.
+- **Link:** [Play Now](https://trickortake.com) | [Source Code](https://github.com/zicojiao/trick-or-take)
+
 ## Contributing
 
 Contributions to this repository are welcome! Here’s how you can help:
